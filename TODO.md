@@ -1,7 +1,7 @@
 List of task for this project :
 - Scraping script
-  - [] Can be platform Play Store, X, Instagram, komentar pada penilaian barang di e-commerce, dan lain-lain.
-  - [] Need to get at least 3000 sample
+  - [x] Can be platform Play Store, X, Instagram, komentar pada penilaian barang di e-commerce, dan lain-lain. (Tokopedia)
+  - [x] Need to get at least 3000 sample
   - [] Better to have 10000 samples
 - Feature Extraction and Data Labeling
   - []
@@ -14,6 +14,6 @@ List of task for this project :
 
 Submission file :
 - [] Notebook pelatihan model dengan format .ipynb.
-- [] File kode scraping dengan format .py atau .ipynb.
-- [] File requirements.txt.
-- [] Dataset hasil scraping dengan format .csv atau .json.
+- [x] File kode scraping dengan format .py atau .ipynb.
+- [x] File requirements.txt.
+- [x] Dataset hasil scraping dengan format .csv atau .json.
