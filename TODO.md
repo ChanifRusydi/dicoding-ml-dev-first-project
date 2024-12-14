@@ -13,7 +13,7 @@ List of task for this project :
   - [] Better to have at least 3 classes
 
 Submission file :
-- [] Notebook pelatihan model dengan format .ipynb.
+- [X] Notebook pelatihan model dengan format .ipynb.
 - [x] File kode scraping dengan format .py atau .ipynb.
 - [x] File requirements.txt.
 - [x] Dataset hasil scraping dengan format .csv atau .json.

@@ -3,3 +3,4 @@ numpy
 pandas
 tensorflow
 beautifulsoup4
+google-generativeai
